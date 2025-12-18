@@ -16,6 +16,8 @@ The analysis of the integrated single-cell RNA-seq data ,single nucleus RNA sequ
 
     05-stages and cell–cell interactions of scRNA-seq altal
 
+    06-gene expression of single-cell RNA-seq data ,single nucleus RNA sequencing and spatial transcriptomics
+
 ## Data
 
 Raw data: https://db.cngb.org/cnsa/ ,CNSA, accession code: CNP0005964
